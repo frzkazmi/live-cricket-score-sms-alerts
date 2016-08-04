@@ -6,7 +6,7 @@ To run this script,
 
 _1. Clone this repository_
 ```sh
-   git clone https://github.com/devanshgoenka97/live_score.git
+   git clone https://github.com/frzkazmi/live-cricket-score-sms-alerts
 ```
 
 _2. Install the Twilio API_
