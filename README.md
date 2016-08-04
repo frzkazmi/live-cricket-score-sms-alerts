@@ -20,4 +20,6 @@ _4. Run the `main.py` script_
 
 _5.Enjoy!_
 
+#New branch added with same functionality but wit way2sms credentials !!!
+
 
