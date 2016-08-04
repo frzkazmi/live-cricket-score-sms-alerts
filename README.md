@@ -9,14 +9,9 @@ _1. Clone this repository_
    git clone https://github.com/frzkazmi/live-cricket-score-sms-alerts
 ```
 
-_2. Install the Twilio API_
-```sh
-   pip install twilio
-```
+_2. Enter way2sms credentials and destination number where sms alerts needs to be sent 
 
-_3. Enter your Twilio SID and Auth Token_
-
-_4. Run the `main.py` script_
+_4. Run the `cricway2.py` script_
 
 _5.Enjoy!_
 
